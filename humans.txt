@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <this role is changed> -- <twitter>
 
 # THANKS
      Thanks to the teacher
